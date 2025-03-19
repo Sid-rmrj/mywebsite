@@ -8,9 +8,11 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 this page is created on 19-03-2025 and there is gonna be a lot of updates.
 
-# My_projects
-
+# My_projects 
+!(https://github.com/Sid-rmrj/mywebsite/blob/main/website%20icons/start-up.png)
 This website is one of the interesting projects i have ever made.
+
+![project_icon](https://github.com/Sid-rmrj/mywebsite/blob/main/website%20icons/start-up.png)
 
 ## Project_1 
 
@@ -29,7 +31,6 @@ This website is one of the interesting projects i have ever made.
 ### Small image
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 
 
 ```js
