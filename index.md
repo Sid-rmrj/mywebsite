@@ -6,21 +6,31 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
+this page is created on 19-03-2025 and there is gonna be a lot of updates.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# My_projects
 
-# Header 1
+This website is one of the interesting projects i have ever made.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
+## Project_1 
 
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### Description
+
+
+
+#Blogs
+
+./blogposts.md
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+
 
 ```js
 // Javascript code with syntax highlighting.
@@ -92,9 +102,6 @@ end
   - level 2 item
 - level 1 item
 
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
